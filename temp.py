@@ -3,3 +3,5 @@ def we_crash_all(name: str) -> str:
 
 print(we_crash_all('Наташа'))
 print(we_crash_all("Гена")) 
+print(we_crash_all("Женя")) 
+
